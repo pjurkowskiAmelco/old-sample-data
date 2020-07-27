@@ -1,0 +1,53 @@
+{
+  "sport" : [ {
+    "category" : [ {
+      "competition" : [ {
+        "event" : [ {
+          "market" : [ ],
+          "attributes" : [ ],
+          "participants" : {
+            "participant" : [ {
+              "name" : "Chase Ferguson",
+              "type" : "team",
+              "position" : 0,
+              "extId" : "54094_50044751"
+            }, {
+              "name" : "Connor Di Marco",
+              "type" : "team",
+              "position" : 1,
+              "extId" : "54094_50043523"
+            } ]
+          },
+          "suspendedInChannels" : [ ],
+          "undisplayedInChannels" : [ ],
+          "matchFormat" : [ ],
+          "pitchers" : [ ],
+          "name" : "Chase Ferguson vs Connor Di Marco",
+          "eventTime" : 1593923400000,
+          "bettingPeriod" : "BOTH",
+          "inplay" : true,
+          "offeredInplay" : true,
+          "extId" : "5619729"
+        } ],
+        "matchFormat" : [ ],
+        "extraInfo" : [ ],
+        "name" : "UTR Pro Tennis Series Melbourne",
+        "extId" : "54094-172-6556369178665170250"
+      } ],
+      "category" : [ ],
+      "matchFormat" : [ ],
+      "name" : "Australia",
+      "extId" : "54094-172"
+    } ],
+    "name" : "Tennis",
+    "extId" : "54094"
+  } ],
+  "category" : [ ],
+  "competition" : [ ],
+  "event" : [ ],
+  "credential" : {
+    "username" : "lsportsbetsyncuser",
+    "password" : "dkd9hdg6283hbfdshdasidy23123"
+  },
+  "systemcode" : "LSPORTS"
+}

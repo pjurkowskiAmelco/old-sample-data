@@ -1,0 +1,53 @@
+{
+  "sport" : [ {
+    "category" : [ {
+      "competition" : [ {
+        "event" : [ {
+          "market" : [ ],
+          "attributes" : [ ],
+          "participants" : {
+            "participant" : [ {
+              "name" : "Houston Rockets (Zo0m)",
+              "type" : "team",
+              "position" : 0,
+              "extId" : "48242_52418994"
+            }, {
+              "name" : "Memphis Grizzlies (Ash)",
+              "type" : "team",
+              "position" : 1,
+              "extId" : "48242_52436153"
+            } ]
+          },
+          "suspendedInChannels" : [ ],
+          "undisplayedInChannels" : [ ],
+          "matchFormat" : [ ],
+          "pitchers" : [ ],
+          "name" : "Houston Rockets (Zo0m) vs Memphis Grizzlies (Ash)",
+          "eventTime" : 1593882360000,
+          "bettingPeriod" : "BOTH",
+          "inplay" : true,
+          "offeredInplay" : true,
+          "extId" : "5614740"
+        } ],
+        "matchFormat" : [ ],
+        "extraInfo" : [ ],
+        "name" : "NBA 2K20 (E)",
+        "extId" : "48242-248-7551343463004061853"
+      } ],
+      "category" : [ ],
+      "matchFormat" : [ ],
+      "name" : "International",
+      "extId" : "48242-248"
+    } ],
+    "name" : "Basketball",
+    "extId" : "48242"
+  } ],
+  "category" : [ ],
+  "competition" : [ ],
+  "event" : [ ],
+  "credential" : {
+    "username" : "lsportsbetsyncuser",
+    "password" : "dkd9hdg6283hbfdshdasidy23123"
+  },
+  "systemcode" : "LSPORTS"
+}

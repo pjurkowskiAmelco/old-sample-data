@@ -1,0 +1,57 @@
+{
+  "sport" : [ {
+    "category" : [ {
+      "competition" : [ {
+        "event" : [ {
+          "market" : [ ],
+          "attributes" : [ {
+            "value" : "true",
+            "subAttributes" : [ ],
+            "name" : "outrightEvent"
+          } ],
+          "participants" : {
+            "participant" : [ {
+              "name" : "England",
+              "type" : "team",
+              "position" : 0,
+              "extId" : "452674_160007"
+            }, {
+              "name" : "West Indies",
+              "type" : "team",
+              "position" : 1,
+              "extId" : "452674_160006"
+            } ]
+          },
+          "suspendedInChannels" : [ ],
+          "undisplayedInChannels" : [ ],
+          "matchFormat" : [ ],
+          "pitchers" : [ ],
+          "name" : "England vs West Indies",
+          "eventTime" : 1594202400000,
+          "bettingPeriod" : "BOTH",
+          "inplay" : true,
+          "offeredInplay" : true,
+          "extId" : "5469904"
+        } ],
+        "matchFormat" : [ ],
+        "extraInfo" : [ ],
+        "name" : "Test Series",
+        "extId" : "452674-248-249479821025104734"
+      } ],
+      "category" : [ ],
+      "matchFormat" : [ ],
+      "name" : "International",
+      "extId" : "452674-248"
+    } ],
+    "name" : "Cricket",
+    "extId" : "452674"
+  } ],
+  "category" : [ ],
+  "competition" : [ ],
+  "event" : [ ],
+  "credential" : {
+    "username" : "lsportsbetsyncuser",
+    "password" : "dkd9hdg6283hbfdshdasidy23123"
+  },
+  "systemcode" : "LSPORTS"
+}
