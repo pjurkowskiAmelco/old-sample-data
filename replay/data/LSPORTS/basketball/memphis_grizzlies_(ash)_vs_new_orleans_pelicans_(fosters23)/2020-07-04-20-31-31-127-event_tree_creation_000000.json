@@ -1,0 +1,81 @@
+{
+  "sport" : [ {
+    "category" : [ {
+      "competition" : [ {
+        "event" : [ {
+          "market" : [ {
+            "selection" : [ {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Under 121.5",
+              "type" : "Under",
+              "extId" : "5614721_28_M#121.5_Under"
+            }, {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Over 121.5",
+              "type" : "Over",
+              "extId" : "5614721_28_M#121.5_Over"
+            } ],
+            "forecast" : [ ],
+            "tricast" : [ ],
+            "attributes" : [ {
+              "value" : "Bet365",
+              "subAttributes" : [ ],
+              "name" : "MarketSource"
+            } ],
+            "name" : "Total Points (INCL. OT)",
+            "type" : "BASKETBALL:FTOT:OU",
+            "subtype" : "M#121.5",
+            "displayOrder" : 0,
+            "extId" : "5614721_28_M#121.5"
+          } ],
+          "attributes" : [ ],
+          "participants" : {
+            "participant" : [ {
+              "name" : "Memphis Grizzlies (Ash)",
+              "type" : "team",
+              "position" : 0,
+              "extId" : "48242_52436153"
+            }, {
+              "name" : "New Orleans Pelicans (Fosters23)",
+              "type" : "team",
+              "position" : 1,
+              "extId" : "48242_52436161"
+            } ]
+          },
+          "suspendedInChannels" : [ ],
+          "undisplayedInChannels" : [ ],
+          "matchFormat" : [ ],
+          "pitchers" : [ ],
+          "name" : "Memphis Grizzlies (Ash) vs New Orleans Pelicans (Fosters23)",
+          "eventTime" : 1593891000000,
+          "bettingPeriod" : "BOTH",
+          "inplay" : true,
+          "offeredInplay" : true,
+          "extId" : "5614721"
+        } ],
+        "matchFormat" : [ ],
+        "extraInfo" : [ ],
+        "name" : "NBA 2K20 (E)",
+        "extId" : "48242-248-7551343463004061853"
+      } ],
+      "category" : [ ],
+      "matchFormat" : [ ],
+      "name" : "International",
+      "extId" : "48242-248"
+    } ],
+    "name" : "Basketball",
+    "extId" : "48242"
+  } ],
+  "category" : [ ],
+  "competition" : [ ],
+  "event" : [ ],
+  "credential" : {
+    "username" : "lsportsbetsyncuser",
+    "password" : "dkd9hdg6283hbfdshdasidy23123"
+  },
+  "systemcode" : "LSPORTS"
+}

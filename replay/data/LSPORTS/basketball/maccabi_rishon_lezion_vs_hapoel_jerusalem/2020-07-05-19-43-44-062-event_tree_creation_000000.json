@@ -1,0 +1,109 @@
+{
+  "sport" : [ {
+    "category" : [ {
+      "competition" : [ {
+        "event" : [ {
+          "market" : [ {
+            "selection" : [ {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Maccabi Rishon Lezion +30.5",
+              "type" : "AH",
+              "extId" : "5591553_342_1_30.5"
+            }, {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Hapoel Jerusalem -30.5",
+              "type" : "BH",
+              "extId" : "5591553_342_2_30.5"
+            } ],
+            "forecast" : [ ],
+            "tricast" : [ ],
+            "attributes" : [ {
+              "value" : "Bet365",
+              "subAttributes" : [ ],
+              "name" : "MarketSource"
+            } ],
+            "name" : "Spread",
+            "type" : "BASKETBALL:FTOT:AHCP",
+            "subtype" : "M#30.5",
+            "displayOrder" : 0,
+            "extId" : "5591553_342_M#30.5"
+          }, {
+            "selection" : [ {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Maccabi Rishon Lezion +25.5",
+              "type" : "AH",
+              "extId" : "5591553_342_1_25.5"
+            }, {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Hapoel Jerusalem -25.5",
+              "type" : "BH",
+              "extId" : "5591553_342_2_25.5"
+            } ],
+            "forecast" : [ ],
+            "tricast" : [ ],
+            "attributes" : [ {
+              "value" : "Bet365",
+              "subAttributes" : [ ],
+              "name" : "MarketSource"
+            } ],
+            "name" : "Spread",
+            "type" : "BASKETBALL:FTOT:AHCP",
+            "subtype" : "M#25.5",
+            "displayOrder" : 0,
+            "extId" : "5591553_342_M#25.5"
+          } ],
+          "attributes" : [ ],
+          "participants" : {
+            "participant" : [ {
+              "name" : "Maccabi Rishon Lezion",
+              "type" : "team",
+              "position" : 0,
+              "extId" : "48242_234426"
+            }, {
+              "name" : "Hapoel Jerusalem",
+              "type" : "team",
+              "position" : 1,
+              "extId" : "48242_162673"
+            } ]
+          },
+          "suspendedInChannels" : [ ],
+          "undisplayedInChannels" : [ ],
+          "matchFormat" : [ ],
+          "pitchers" : [ ],
+          "name" : "Maccabi Rishon Lezion vs Hapoel Jerusalem",
+          "eventTime" : 1593972900000,
+          "bettingPeriod" : "BOTH",
+          "inplay" : true,
+          "offeredInplay" : true,
+          "extId" : "5591553"
+        } ],
+        "matchFormat" : [ ],
+        "extraInfo" : [ ],
+        "name" : "Super League",
+        "extId" : "48242-60-7721490125285189691"
+      } ],
+      "category" : [ ],
+      "matchFormat" : [ ],
+      "name" : "Israel",
+      "extId" : "48242-60"
+    } ],
+    "name" : "Basketball",
+    "extId" : "48242"
+  } ],
+  "category" : [ ],
+  "competition" : [ ],
+  "event" : [ ],
+  "credential" : {
+    "username" : "lsportsbetsyncuser",
+    "password" : "dkd9hdg6283hbfdshdasidy23123"
+  },
+  "systemcode" : "LSPORTS"
+}

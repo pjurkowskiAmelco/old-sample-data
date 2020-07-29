@@ -1,0 +1,81 @@
+{
+  "sport" : [ {
+    "category" : [ {
+      "competition" : [ {
+        "event" : [ {
+          "market" : [ {
+            "selection" : [ {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Peoria All-Stars +11.5",
+              "type" : "AH",
+              "extId" : "5620953_342_1_11.5"
+            }, {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Herd That -11.5",
+              "type" : "BH",
+              "extId" : "5620953_342_2_11.5"
+            } ],
+            "forecast" : [ ],
+            "tricast" : [ ],
+            "attributes" : [ {
+              "value" : "Bet365",
+              "subAttributes" : [ ],
+              "name" : "MarketSource"
+            } ],
+            "name" : "Spread",
+            "type" : "BASKETBALL:FTOT:AHCP",
+            "subtype" : "M#11.5",
+            "displayOrder" : 0,
+            "extId" : "5620953_342_M#11.5"
+          } ],
+          "attributes" : [ ],
+          "participants" : {
+            "participant" : [ {
+              "name" : "Peoria All-Stars",
+              "type" : "team",
+              "position" : 0,
+              "extId" : "48242_52459814"
+            }, {
+              "name" : "Herd That",
+              "type" : "team",
+              "position" : 1,
+              "extId" : "48242_52459815"
+            } ]
+          },
+          "suspendedInChannels" : [ ],
+          "undisplayedInChannels" : [ ],
+          "matchFormat" : [ ],
+          "pitchers" : [ ],
+          "name" : "Peoria All-Stars vs Herd That",
+          "eventTime" : 1593972000000,
+          "bettingPeriod" : "BOTH",
+          "inplay" : true,
+          "offeredInplay" : true,
+          "extId" : "5620953"
+        } ],
+        "matchFormat" : [ ],
+        "extraInfo" : [ ],
+        "name" : "Tournament TBT",
+        "extId" : "48242-4-6143366428771205334"
+      } ],
+      "category" : [ ],
+      "matchFormat" : [ ],
+      "name" : "United States",
+      "extId" : "48242-4"
+    } ],
+    "name" : "Basketball",
+    "extId" : "48242"
+  } ],
+  "category" : [ ],
+  "competition" : [ ],
+  "event" : [ ],
+  "credential" : {
+    "username" : "lsportsbetsyncuser",
+    "password" : "dkd9hdg6283hbfdshdasidy23123"
+  },
+  "systemcode" : "LSPORTS"
+}

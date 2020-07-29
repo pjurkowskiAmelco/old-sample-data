@@ -1,0 +1,445 @@
+{
+  "sport" : [ {
+    "category" : [ {
+      "competition" : [ {
+        "event" : [ {
+          "market" : [ {
+            "selection" : [ {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Maccabi Rishon Lezion -16.5",
+              "type" : "AH",
+              "extId" : "5591553_342_1_-16.5"
+            }, {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Hapoel Jerusalem +16.5",
+              "type" : "BH",
+              "extId" : "5591553_342_2_-16.5"
+            } ],
+            "forecast" : [ ],
+            "tricast" : [ ],
+            "attributes" : [ {
+              "value" : "Bet365",
+              "subAttributes" : [ ],
+              "name" : "MarketSource"
+            } ],
+            "name" : "Spread",
+            "type" : "BASKETBALL:FTOT:AHCP",
+            "subtype" : "M#-16.5",
+            "displayOrder" : 0,
+            "extId" : "5591553_342_M#-16.5"
+          }, {
+            "selection" : [ {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Maccabi Rishon Lezion +18.5",
+              "type" : "AH",
+              "extId" : "5591553_342_1_18.5"
+            }, {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Hapoel Jerusalem -18.5",
+              "type" : "BH",
+              "extId" : "5591553_342_2_18.5"
+            } ],
+            "forecast" : [ ],
+            "tricast" : [ ],
+            "attributes" : [ {
+              "value" : "Bet365",
+              "subAttributes" : [ ],
+              "name" : "MarketSource"
+            } ],
+            "name" : "Spread",
+            "type" : "BASKETBALL:FTOT:AHCP",
+            "subtype" : "M#18.5",
+            "displayOrder" : 0,
+            "extId" : "5591553_342_M#18.5"
+          }, {
+            "selection" : [ {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Maccabi Rishon Lezion +23.5",
+              "type" : "AH",
+              "extId" : "5591553_342_1_23.5"
+            }, {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Hapoel Jerusalem -23.5",
+              "type" : "BH",
+              "extId" : "5591553_342_2_23.5"
+            } ],
+            "forecast" : [ ],
+            "tricast" : [ ],
+            "attributes" : [ {
+              "value" : "Bet365",
+              "subAttributes" : [ ],
+              "name" : "MarketSource"
+            } ],
+            "name" : "Spread",
+            "type" : "BASKETBALL:FTOT:AHCP",
+            "subtype" : "M#23.5",
+            "displayOrder" : 0,
+            "extId" : "5591553_342_M#23.5"
+          }, {
+            "selection" : [ {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Maccabi Rishon Lezion +13.5",
+              "type" : "AH",
+              "extId" : "5591553_342_1_13.5"
+            }, {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Hapoel Jerusalem -13.5",
+              "type" : "BH",
+              "extId" : "5591553_342_2_13.5"
+            } ],
+            "forecast" : [ ],
+            "tricast" : [ ],
+            "attributes" : [ {
+              "value" : "Bet365",
+              "subAttributes" : [ ],
+              "name" : "MarketSource"
+            } ],
+            "name" : "Spread",
+            "type" : "BASKETBALL:FTOT:AHCP",
+            "subtype" : "M#13.5",
+            "displayOrder" : 0,
+            "extId" : "5591553_342_M#13.5"
+          }, {
+            "selection" : [ {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Maccabi Rishon Lezion -6.5",
+              "type" : "AH",
+              "extId" : "5591553_342_1_-6.5"
+            }, {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Hapoel Jerusalem +6.5",
+              "type" : "BH",
+              "extId" : "5591553_342_2_-6.5"
+            } ],
+            "forecast" : [ ],
+            "tricast" : [ ],
+            "attributes" : [ {
+              "value" : "Bet365",
+              "subAttributes" : [ ],
+              "name" : "MarketSource"
+            } ],
+            "name" : "Spread",
+            "type" : "BASKETBALL:FTOT:AHCP",
+            "subtype" : "M#-6.5",
+            "displayOrder" : 0,
+            "extId" : "5591553_342_M#-6.5"
+          }, {
+            "selection" : [ {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Maccabi Rishon Lezion +0.5",
+              "type" : "AH",
+              "extId" : "5591553_342_1_0.5"
+            }, {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Hapoel Jerusalem -0.5",
+              "type" : "BH",
+              "extId" : "5591553_342_2_0.5"
+            } ],
+            "forecast" : [ ],
+            "tricast" : [ ],
+            "attributes" : [ {
+              "value" : "Bet365",
+              "subAttributes" : [ ],
+              "name" : "MarketSource"
+            } ],
+            "name" : "Spread",
+            "type" : "BASKETBALL:FTOT:AHCP",
+            "subtype" : "M#0.5",
+            "displayOrder" : 0,
+            "extId" : "5591553_342_M#0.5"
+          }, {
+            "selection" : [ {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Maccabi Rishon Lezion -11.5",
+              "type" : "AH",
+              "extId" : "5591553_342_1_-11.5"
+            }, {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Hapoel Jerusalem +11.5",
+              "type" : "BH",
+              "extId" : "5591553_342_2_-11.5"
+            } ],
+            "forecast" : [ ],
+            "tricast" : [ ],
+            "attributes" : [ {
+              "value" : "Bet365",
+              "subAttributes" : [ ],
+              "name" : "MarketSource"
+            } ],
+            "name" : "Spread",
+            "type" : "BASKETBALL:FTOT:AHCP",
+            "subtype" : "M#-11.5",
+            "displayOrder" : 0,
+            "extId" : "5591553_342_M#-11.5"
+          }, {
+            "selection" : [ {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Under 192.5",
+              "type" : "Under",
+              "extId" : "5591553_28_M#192.5_Under"
+            }, {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Over 192.5",
+              "type" : "Over",
+              "extId" : "5591553_28_M#192.5_Over"
+            } ],
+            "forecast" : [ ],
+            "tricast" : [ ],
+            "attributes" : [ {
+              "value" : "Bet365",
+              "subAttributes" : [ ],
+              "name" : "MarketSource"
+            } ],
+            "name" : "Total Points (INCL. OT)",
+            "type" : "BASKETBALL:FTOT:OU",
+            "subtype" : "M#192.5",
+            "displayOrder" : 0,
+            "extId" : "5591553_28_M#192.5"
+          }, {
+            "selection" : [ {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Under 152.5",
+              "type" : "Under",
+              "extId" : "5591553_28_M#152.5_Under"
+            }, {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Over 152.5",
+              "type" : "Over",
+              "extId" : "5591553_28_M#152.5_Over"
+            } ],
+            "forecast" : [ ],
+            "tricast" : [ ],
+            "attributes" : [ {
+              "value" : "Bet365",
+              "subAttributes" : [ ],
+              "name" : "MarketSource"
+            } ],
+            "name" : "Total Points (INCL. OT)",
+            "type" : "BASKETBALL:FTOT:OU",
+            "subtype" : "M#152.5",
+            "displayOrder" : 0,
+            "extId" : "5591553_28_M#152.5"
+          }, {
+            "selection" : [ {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Over 187.5",
+              "type" : "Over",
+              "extId" : "5591553_28_M#187.5_Over"
+            }, {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Under 187.5",
+              "type" : "Under",
+              "extId" : "5591553_28_M#187.5_Under"
+            } ],
+            "forecast" : [ ],
+            "tricast" : [ ],
+            "attributes" : [ {
+              "value" : "Bet365",
+              "subAttributes" : [ ],
+              "name" : "MarketSource"
+            } ],
+            "name" : "Total Points (INCL. OT)",
+            "type" : "BASKETBALL:FTOT:OU",
+            "subtype" : "M#187.5",
+            "displayOrder" : 0,
+            "extId" : "5591553_28_M#187.5"
+          }, {
+            "selection" : [ {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Over 182.5",
+              "type" : "Over",
+              "extId" : "5591553_28_M#182.5_Over"
+            }, {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Under 182.5",
+              "type" : "Under",
+              "extId" : "5591553_28_M#182.5_Under"
+            } ],
+            "forecast" : [ ],
+            "tricast" : [ ],
+            "attributes" : [ {
+              "value" : "Bet365",
+              "subAttributes" : [ ],
+              "name" : "MarketSource"
+            } ],
+            "name" : "Total Points (INCL. OT)",
+            "type" : "BASKETBALL:FTOT:OU",
+            "subtype" : "M#182.5",
+            "displayOrder" : 0,
+            "extId" : "5591553_28_M#182.5"
+          }, {
+            "selection" : [ {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Over 147.5",
+              "type" : "Over",
+              "extId" : "5591553_28_M#147.5_Over"
+            }, {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Under 147.5",
+              "type" : "Under",
+              "extId" : "5591553_28_M#147.5_Under"
+            } ],
+            "forecast" : [ ],
+            "tricast" : [ ],
+            "attributes" : [ {
+              "value" : "Bet365",
+              "subAttributes" : [ ],
+              "name" : "MarketSource"
+            } ],
+            "name" : "Total Points (INCL. OT)",
+            "type" : "BASKETBALL:FTOT:OU",
+            "subtype" : "M#147.5",
+            "displayOrder" : 0,
+            "extId" : "5591553_28_M#147.5"
+          }, {
+            "selection" : [ {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Over 197.5",
+              "type" : "Over",
+              "extId" : "5591553_28_M#197.5_Over"
+            }, {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Under 197.5",
+              "type" : "Under",
+              "extId" : "5591553_28_M#197.5_Under"
+            } ],
+            "forecast" : [ ],
+            "tricast" : [ ],
+            "attributes" : [ {
+              "value" : "Bet365",
+              "subAttributes" : [ ],
+              "name" : "MarketSource"
+            } ],
+            "name" : "Total Points (INCL. OT)",
+            "type" : "BASKETBALL:FTOT:OU",
+            "subtype" : "M#197.5",
+            "displayOrder" : 0,
+            "extId" : "5591553_28_M#197.5"
+          }, {
+            "selection" : [ {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Over 157.5",
+              "type" : "Over",
+              "extId" : "5591553_28_M#157.5_Over"
+            }, {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Under 157.5",
+              "type" : "Under",
+              "extId" : "5591553_28_M#157.5_Under"
+            } ],
+            "forecast" : [ ],
+            "tricast" : [ ],
+            "attributes" : [ {
+              "value" : "Bet365",
+              "subAttributes" : [ ],
+              "name" : "MarketSource"
+            } ],
+            "name" : "Total Points (INCL. OT)",
+            "type" : "BASKETBALL:FTOT:OU",
+            "subtype" : "M#157.5",
+            "displayOrder" : 0,
+            "extId" : "5591553_28_M#157.5"
+          } ],
+          "attributes" : [ ],
+          "participants" : {
+            "participant" : [ {
+              "name" : "Maccabi Rishon Lezion",
+              "type" : "team",
+              "position" : 0,
+              "extId" : "48242_234426"
+            }, {
+              "name" : "Hapoel Jerusalem",
+              "type" : "team",
+              "position" : 1,
+              "extId" : "48242_162673"
+            } ]
+          },
+          "suspendedInChannels" : [ ],
+          "undisplayedInChannels" : [ ],
+          "matchFormat" : [ ],
+          "pitchers" : [ ],
+          "name" : "Maccabi Rishon Lezion vs Hapoel Jerusalem",
+          "eventTime" : 1593972900000,
+          "bettingPeriod" : "BOTH",
+          "inplay" : false,
+          "offeredInplay" : true,
+          "extId" : "5591553"
+        } ],
+        "matchFormat" : [ ],
+        "extraInfo" : [ ],
+        "name" : "Super League",
+        "extId" : "48242-60-7721490125285189691"
+      } ],
+      "category" : [ ],
+      "matchFormat" : [ ],
+      "name" : "Israel",
+      "extId" : "48242-60"
+    } ],
+    "name" : "Basketball",
+    "extId" : "48242"
+  } ],
+  "category" : [ ],
+  "competition" : [ ],
+  "event" : [ ],
+  "credential" : {
+    "username" : "lsportsbetsyncuser",
+    "password" : "dkd9hdg6283hbfdshdasidy23123"
+  },
+  "systemcode" : "LSPORTS"
+}

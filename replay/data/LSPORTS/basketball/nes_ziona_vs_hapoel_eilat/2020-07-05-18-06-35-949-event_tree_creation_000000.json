@@ -1,0 +1,249 @@
+{
+  "sport" : [ {
+    "category" : [ {
+      "competition" : [ {
+        "event" : [ {
+          "market" : [ {
+            "selection" : [ {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Under 198.5",
+              "type" : "Under",
+              "extId" : "5587530_28_M#198.5_Under"
+            }, {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Over 198.5",
+              "type" : "Over",
+              "extId" : "5587530_28_M#198.5_Over"
+            } ],
+            "forecast" : [ ],
+            "tricast" : [ ],
+            "attributes" : [ {
+              "value" : "Bet365",
+              "subAttributes" : [ ],
+              "name" : "MarketSource"
+            } ],
+            "name" : "Total Points (INCL. OT)",
+            "type" : "BASKETBALL:FTOT:OU",
+            "subtype" : "M#198.5",
+            "displayOrder" : 0,
+            "extId" : "5587530_28_M#198.5"
+          }, {
+            "selection" : [ {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Over 153.5",
+              "type" : "Over",
+              "extId" : "5587530_28_M#153.5_Over"
+            }, {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Under 153.5",
+              "type" : "Under",
+              "extId" : "5587530_28_M#153.5_Under"
+            } ],
+            "forecast" : [ ],
+            "tricast" : [ ],
+            "attributes" : [ {
+              "value" : "Bet365",
+              "subAttributes" : [ ],
+              "name" : "MarketSource"
+            } ],
+            "name" : "Total Points (INCL. OT)",
+            "type" : "BASKETBALL:FTOT:OU",
+            "subtype" : "M#153.5",
+            "displayOrder" : 0,
+            "extId" : "5587530_28_M#153.5"
+          }, {
+            "selection" : [ {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Over 158.5",
+              "type" : "Over",
+              "extId" : "5587530_28_M#158.5_Over"
+            }, {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Under 158.5",
+              "type" : "Under",
+              "extId" : "5587530_28_M#158.5_Under"
+            } ],
+            "forecast" : [ ],
+            "tricast" : [ ],
+            "attributes" : [ {
+              "value" : "Bet365",
+              "subAttributes" : [ ],
+              "name" : "MarketSource"
+            } ],
+            "name" : "Total Points (INCL. OT)",
+            "type" : "BASKETBALL:FTOT:OU",
+            "subtype" : "M#158.5",
+            "displayOrder" : 0,
+            "extId" : "5587530_28_M#158.5"
+          }, {
+            "selection" : [ {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Over 163.5",
+              "type" : "Over",
+              "extId" : "5587530_28_M#163.5_Over"
+            }, {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Under 163.5",
+              "type" : "Under",
+              "extId" : "5587530_28_M#163.5_Under"
+            } ],
+            "forecast" : [ ],
+            "tricast" : [ ],
+            "attributes" : [ {
+              "value" : "Bet365",
+              "subAttributes" : [ ],
+              "name" : "MarketSource"
+            } ],
+            "name" : "Total Points (INCL. OT)",
+            "type" : "BASKETBALL:FTOT:OU",
+            "subtype" : "M#163.5",
+            "displayOrder" : 0,
+            "extId" : "5587530_28_M#163.5"
+          }, {
+            "selection" : [ {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Over 193.5",
+              "type" : "Over",
+              "extId" : "5587530_28_M#193.5_Over"
+            }, {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Under 193.5",
+              "type" : "Under",
+              "extId" : "5587530_28_M#193.5_Under"
+            } ],
+            "forecast" : [ ],
+            "tricast" : [ ],
+            "attributes" : [ {
+              "value" : "Bet365",
+              "subAttributes" : [ ],
+              "name" : "MarketSource"
+            } ],
+            "name" : "Total Points (INCL. OT)",
+            "type" : "BASKETBALL:FTOT:OU",
+            "subtype" : "M#193.5",
+            "displayOrder" : 0,
+            "extId" : "5587530_28_M#193.5"
+          }, {
+            "selection" : [ {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Under 188.5",
+              "type" : "Under",
+              "extId" : "5587530_28_M#188.5_Under"
+            }, {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Over 188.5",
+              "type" : "Over",
+              "extId" : "5587530_28_M#188.5_Over"
+            } ],
+            "forecast" : [ ],
+            "tricast" : [ ],
+            "attributes" : [ {
+              "value" : "Bet365",
+              "subAttributes" : [ ],
+              "name" : "MarketSource"
+            } ],
+            "name" : "Total Points (INCL. OT)",
+            "type" : "BASKETBALL:FTOT:OU",
+            "subtype" : "M#188.5",
+            "displayOrder" : 0,
+            "extId" : "5587530_28_M#188.5"
+          }, {
+            "selection" : [ {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Over 148.5",
+              "type" : "Over",
+              "extId" : "5587530_28_M#148.5_Over"
+            }, {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Under 148.5",
+              "type" : "Under",
+              "extId" : "5587530_28_M#148.5_Under"
+            } ],
+            "forecast" : [ ],
+            "tricast" : [ ],
+            "attributes" : [ {
+              "value" : "Bet365",
+              "subAttributes" : [ ],
+              "name" : "MarketSource"
+            } ],
+            "name" : "Total Points (INCL. OT)",
+            "type" : "BASKETBALL:FTOT:OU",
+            "subtype" : "M#148.5",
+            "displayOrder" : 0,
+            "extId" : "5587530_28_M#148.5"
+          } ],
+          "attributes" : [ ],
+          "participants" : {
+            "participant" : [ {
+              "name" : "Nes Ziona",
+              "type" : "team",
+              "position" : 0,
+              "extId" : "48242_309270"
+            }, {
+              "name" : "Hapoel Eilat",
+              "type" : "team",
+              "position" : 1,
+              "extId" : "48242_283908"
+            } ]
+          },
+          "suspendedInChannels" : [ ],
+          "undisplayedInChannels" : [ ],
+          "matchFormat" : [ ],
+          "pitchers" : [ ],
+          "name" : "Nes Ziona vs Hapoel Eilat",
+          "eventTime" : 1593968700000,
+          "bettingPeriod" : "BOTH",
+          "inplay" : true,
+          "offeredInplay" : true,
+          "extId" : "5587530"
+        } ],
+        "matchFormat" : [ ],
+        "extraInfo" : [ ],
+        "name" : "Super League",
+        "extId" : "48242-60-7721490125285189691"
+      } ],
+      "category" : [ ],
+      "matchFormat" : [ ],
+      "name" : "Israel",
+      "extId" : "48242-60"
+    } ],
+    "name" : "Basketball",
+    "extId" : "48242"
+  } ],
+  "category" : [ ],
+  "competition" : [ ],
+  "event" : [ ],
+  "credential" : {
+    "username" : "lsportsbetsyncuser",
+    "password" : "dkd9hdg6283hbfdshdasidy23123"
+  },
+  "systemcode" : "LSPORTS"
+}

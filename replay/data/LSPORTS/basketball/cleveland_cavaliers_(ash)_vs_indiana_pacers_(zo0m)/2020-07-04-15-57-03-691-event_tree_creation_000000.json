@@ -1,0 +1,81 @@
+{
+  "sport" : [ {
+    "category" : [ {
+      "competition" : [ {
+        "event" : [ {
+          "market" : [ {
+            "selection" : [ {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Under 114.5",
+              "type" : "Under",
+              "extId" : "5614734_28_M#114.5_Under"
+            }, {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Over 114.5",
+              "type" : "Over",
+              "extId" : "5614734_28_M#114.5_Over"
+            } ],
+            "forecast" : [ ],
+            "tricast" : [ ],
+            "attributes" : [ {
+              "value" : "Bet365",
+              "subAttributes" : [ ],
+              "name" : "MarketSource"
+            } ],
+            "name" : "Total Points (INCL. OT)",
+            "type" : "BASKETBALL:FTOT:OU",
+            "subtype" : "M#114.5",
+            "displayOrder" : 0,
+            "extId" : "5614734_28_M#114.5"
+          } ],
+          "attributes" : [ ],
+          "participants" : {
+            "participant" : [ {
+              "name" : "Cleveland Cavaliers (Ash)",
+              "type" : "team",
+              "position" : 0,
+              "extId" : "48242_52431766"
+            }, {
+              "name" : "Indiana Pacers (Zo0m)",
+              "type" : "team",
+              "position" : 1,
+              "extId" : "48242_52448333"
+            } ]
+          },
+          "suspendedInChannels" : [ ],
+          "undisplayedInChannels" : [ ],
+          "matchFormat" : [ ],
+          "pitchers" : [ ],
+          "name" : "Cleveland Cavaliers (Ash) vs Indiana Pacers (Zo0m)",
+          "eventTime" : 1593874440000,
+          "bettingPeriod" : "BOTH",
+          "inplay" : true,
+          "offeredInplay" : true,
+          "extId" : "5614734"
+        } ],
+        "matchFormat" : [ ],
+        "extraInfo" : [ ],
+        "name" : "NBA 2K20 (E)",
+        "extId" : "48242-248-7551343463004061853"
+      } ],
+      "category" : [ ],
+      "matchFormat" : [ ],
+      "name" : "International",
+      "extId" : "48242-248"
+    } ],
+    "name" : "Basketball",
+    "extId" : "48242"
+  } ],
+  "category" : [ ],
+  "competition" : [ ],
+  "event" : [ ],
+  "credential" : {
+    "username" : "lsportsbetsyncuser",
+    "password" : "dkd9hdg6283hbfdshdasidy23123"
+  },
+  "systemcode" : "LSPORTS"
+}

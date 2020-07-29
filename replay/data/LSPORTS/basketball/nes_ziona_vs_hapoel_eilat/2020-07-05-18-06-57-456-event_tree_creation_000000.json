@@ -1,0 +1,249 @@
+{
+  "sport" : [ {
+    "category" : [ {
+      "competition" : [ {
+        "event" : [ {
+          "market" : [ {
+            "selection" : [ {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Nes Ziona -18.5",
+              "type" : "AH",
+              "extId" : "5587530_342_1_-18.5"
+            }, {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Hapoel Eilat +18.5",
+              "type" : "BH",
+              "extId" : "5587530_342_2_-18.5"
+            } ],
+            "forecast" : [ ],
+            "tricast" : [ ],
+            "attributes" : [ {
+              "value" : "Bet365",
+              "subAttributes" : [ ],
+              "name" : "MarketSource"
+            } ],
+            "name" : "Spread",
+            "type" : "BASKETBALL:FTOT:AHCP",
+            "subtype" : "M#-18.5",
+            "displayOrder" : 0,
+            "extId" : "5587530_342_M#-18.5"
+          }, {
+            "selection" : [ {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Nes Ziona +11.5",
+              "type" : "AH",
+              "extId" : "5587530_342_1_11.5"
+            }, {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Hapoel Eilat -11.5",
+              "type" : "BH",
+              "extId" : "5587530_342_2_11.5"
+            } ],
+            "forecast" : [ ],
+            "tricast" : [ ],
+            "attributes" : [ {
+              "value" : "Bet365",
+              "subAttributes" : [ ],
+              "name" : "MarketSource"
+            } ],
+            "name" : "Spread",
+            "type" : "BASKETBALL:FTOT:AHCP",
+            "subtype" : "M#11.5",
+            "displayOrder" : 0,
+            "extId" : "5587530_342_M#11.5"
+          }, {
+            "selection" : [ {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Nes Ziona -23.5",
+              "type" : "AH",
+              "extId" : "5587530_342_1_-23.5"
+            }, {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Hapoel Eilat +23.5",
+              "type" : "BH",
+              "extId" : "5587530_342_2_-23.5"
+            } ],
+            "forecast" : [ ],
+            "tricast" : [ ],
+            "attributes" : [ {
+              "value" : "Bet365",
+              "subAttributes" : [ ],
+              "name" : "MarketSource"
+            } ],
+            "name" : "Spread",
+            "type" : "BASKETBALL:FTOT:AHCP",
+            "subtype" : "M#-23.5",
+            "displayOrder" : 0,
+            "extId" : "5587530_342_M#-23.5"
+          }, {
+            "selection" : [ {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Nes Ziona +16.5",
+              "type" : "AH",
+              "extId" : "5587530_342_1_16.5"
+            }, {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Hapoel Eilat -16.5",
+              "type" : "BH",
+              "extId" : "5587530_342_2_16.5"
+            } ],
+            "forecast" : [ ],
+            "tricast" : [ ],
+            "attributes" : [ {
+              "value" : "Bet365",
+              "subAttributes" : [ ],
+              "name" : "MarketSource"
+            } ],
+            "name" : "Spread",
+            "type" : "BASKETBALL:FTOT:AHCP",
+            "subtype" : "M#16.5",
+            "displayOrder" : 0,
+            "extId" : "5587530_342_M#16.5"
+          }, {
+            "selection" : [ {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Nes Ziona -13.5",
+              "type" : "AH",
+              "extId" : "5587530_342_1_-13.5"
+            }, {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Hapoel Eilat +13.5",
+              "type" : "BH",
+              "extId" : "5587530_342_2_-13.5"
+            } ],
+            "forecast" : [ ],
+            "tricast" : [ ],
+            "attributes" : [ {
+              "value" : "Bet365",
+              "subAttributes" : [ ],
+              "name" : "MarketSource"
+            } ],
+            "name" : "Spread",
+            "type" : "BASKETBALL:FTOT:AHCP",
+            "subtype" : "M#-13.5",
+            "displayOrder" : 0,
+            "extId" : "5587530_342_M#-13.5"
+          }, {
+            "selection" : [ {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Nes Ziona -10.5",
+              "type" : "AH",
+              "extId" : "5587530_342_1_-10.5"
+            }, {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Hapoel Eilat +10.5",
+              "type" : "BH",
+              "extId" : "5587530_342_2_-10.5"
+            } ],
+            "forecast" : [ ],
+            "tricast" : [ ],
+            "attributes" : [ {
+              "value" : "Bet365",
+              "subAttributes" : [ ],
+              "name" : "MarketSource"
+            } ],
+            "name" : "Spread",
+            "type" : "BASKETBALL:FTOT:AHCP",
+            "subtype" : "M#-10.5",
+            "displayOrder" : 0,
+            "extId" : "5587530_342_M#-10.5"
+          }, {
+            "selection" : [ {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Nes Ziona -0.5",
+              "type" : "AH",
+              "extId" : "5587530_342_1_-0.5"
+            }, {
+              "attributes" : [ ],
+              "prices" : [ ],
+              "wasPrice" : [ ],
+              "name" : "Hapoel Eilat +0.5",
+              "type" : "BH",
+              "extId" : "5587530_342_2_-0.5"
+            } ],
+            "forecast" : [ ],
+            "tricast" : [ ],
+            "attributes" : [ {
+              "value" : "Bet365",
+              "subAttributes" : [ ],
+              "name" : "MarketSource"
+            } ],
+            "name" : "Spread",
+            "type" : "BASKETBALL:FTOT:AHCP",
+            "subtype" : "M#-0.5",
+            "displayOrder" : 0,
+            "extId" : "5587530_342_M#-0.5"
+          } ],
+          "attributes" : [ ],
+          "participants" : {
+            "participant" : [ {
+              "name" : "Nes Ziona",
+              "type" : "team",
+              "position" : 0,
+              "extId" : "48242_309270"
+            }, {
+              "name" : "Hapoel Eilat",
+              "type" : "team",
+              "position" : 1,
+              "extId" : "48242_283908"
+            } ]
+          },
+          "suspendedInChannels" : [ ],
+          "undisplayedInChannels" : [ ],
+          "matchFormat" : [ ],
+          "pitchers" : [ ],
+          "name" : "Nes Ziona vs Hapoel Eilat",
+          "eventTime" : 1593968700000,
+          "bettingPeriod" : "BOTH",
+          "inplay" : true,
+          "offeredInplay" : true,
+          "extId" : "5587530"
+        } ],
+        "matchFormat" : [ ],
+        "extraInfo" : [ ],
+        "name" : "Super League",
+        "extId" : "48242-60-7721490125285189691"
+      } ],
+      "category" : [ ],
+      "matchFormat" : [ ],
+      "name" : "Israel",
+      "extId" : "48242-60"
+    } ],
+    "name" : "Basketball",
+    "extId" : "48242"
+  } ],
+  "category" : [ ],
+  "competition" : [ ],
+  "event" : [ ],
+  "credential" : {
+    "username" : "lsportsbetsyncuser",
+    "password" : "dkd9hdg6283hbfdshdasidy23123"
+  },
+  "systemcode" : "LSPORTS"
+}
