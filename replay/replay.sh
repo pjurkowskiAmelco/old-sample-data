@@ -84,7 +84,7 @@ chosenSport=$(formattedSports | tail -n +$userAns | head -1)
 function apply_dir () {
     local d="${1}"    
     echo -e "\nApplying file data/${chosenFeed}/${chosenSport}/$d"
-    java -cp ${CURRENT_JAR} ats.betsync.in.replay.BetsyncInMessageReplayTool -delay 100 -username lsportsbetsyncin -password test1 -url http://localhost:8140/betsync-in/in -msg data/${chosenFeed}/${chosenSport}/$d
+    java -cp ${CURRENT_JAR} ats.betsync.in.replay.BetsyncInMessageReplayTool -delay 100 -username lsportsbetsyncin -password test1 -url http://localhost:8120/betsync-proxy/in/ -msg data/${chosenFeed}/${chosenSport}/$d
 }
 
 for d in $(ls -1 data/${chosenFeed}/${chosenSport}/ ); do
