@@ -1,0 +1,1 @@
+{ "eventTradingState": { "gatedMarkets": [], "suspendedInChannels": [], "undisplayedInChannels": [], "gatedInChannels": [], "settings": [], "pitchers": [], "state": "ACTIVE", "offeredInplay": false, "inplay": false, "displayed": true, "extId": "5058133" }, "credential": { "username": "lsportsbetsyncuser", "password": "test1" }, "systemcode": "LSPORTS" }
