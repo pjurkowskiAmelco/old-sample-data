@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE HorseRacing SYSTEM "HorseRacing.dtd">
+<HorseRacing timestamp="20220116T124445+0000">
+  <Meeting id="135109" country="Eire" status="Dormant" date="20220116" course="Punchestown" revision="2">
+    <Weather>Dry &amp; Cloudy</Weather>
+    <Going brief="Soft">Soft (Soft to Heavy in places)</Going>
+    <Race id="1091366" date="20220116" time="1245+0000" runners="19" handicap="No" showcase="No" trifecta="No" stewards="None" status="AtThePost" revision="100">
+      <Weather>Dry &amp; Cloudy</Weather>
+      <Going brief="Soft">Soft</Going>
+      <BetMarket marketNumber="1" dtFormed="20220116T123507+0000" deduction="0" deductionType="None"/>
+      <Horse id="3481885" name="Carrigeen Castle" bred="IRE" status="Runner">
+	<Cloth number="1"/>
+	<Weight units="lbs" value="168" text="12st 0lbs"/>
+	<Jockey id="1137739" name="K M Donoghue"/>
+	<Trainer id="921" name="J T R Dreaper"/>
+	<Show timestamp="20220116T123507+0000" marketNumber="1">
+	  <Price numerator="80" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123526+0000" marketNumber="1">
+	  <Price numerator="66" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123817+0000" marketNumber="1">
+	  <Price numerator="80" denominator="1"/>
+	</Show>
+      </Horse>
+      <Horse id="2314315" name="Castletownshend" bred="IRE" status="Runner">
+	<Cloth number="2"/>
+	<Weight units="lbs" value="168" text="12st 0lbs"/>
+	<Jockey id="1164571" name="S O'Callaghan">
+	  <Allowance units="lbs" value="7"/>
+	</Jockey>
+	<Trainer id="3711" name="T M Walsh"/>
+	<Show timestamp="20220116T123507+0000" marketNumber="1">
+	  <Price numerator="40" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123526+0000" marketNumber="1">
+	  <Price numerator="33" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123558+0000" marketNumber="1">
+	  <Price numerator="28" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123605+0000" marketNumber="1">
+	  <Price numerator="33" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123612+0000" marketNumber="1">
+	  <Price numerator="28" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123619+0000" marketNumber="1">
+	  <Price numerator="33" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123744+0000" marketNumber="1">
+	  <Price numerator="28" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123808+0000" marketNumber="1">
+	  <Price numerator="33" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T124424+0000" marketNumber="1">
+	  <Price numerator="40" denominator="1"/>
+	</Show>
+      </Horse>
+      <Horse id="3830656" name="Dont Doubt Me" bred="IRE" status="Runner">
+	<Cloth number="3"/>
+	<Weight units="lbs" value="168" text="12st 0lbs"/>
+	<Jockey id="1158703" name="M J Doyle">
+	  <Allowance units="lbs" value="7"/>
+	</Jockey>
+	<Trainer id="13109" name="P J Rothwell"/>
+	<Show timestamp="20220116T123507+0000" marketNumber="1">
+	  <Price numerator="200" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T124047+0000" marketNumber="1">
+	  <Price numerator="250" denominator="1"/>
+	</Show>
+      </Horse>
+      <Horse id="3818993" name="Garcon Doux" bred="IRE" status="Runner">
+	<Cloth number="4"/>
+	<Weight units="lbs" value="168" text="12st 0lbs"/>
+	<Jockey id="78294" name="B Hayes"/>
+	<Trainer id="44143" name="P Fenton"/>
+	<Show timestamp="20220116T123507+0000" marketNumber="1">
+	  <Price numerator="80" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123526+0000" marketNumber="1">
+	  <Price numerator="66" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123916+0000" marketNumber="1">
+	  <Price numerator="80" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T124121+0000" marketNumber="1">
+	  <Price numerator="100" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T124316+0000" marketNumber="1">
+	  <Price numerator="80" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T124326+0000" marketNumber="1">
+	  <Price numerator="100" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T124424+0000" marketNumber="1">
+	  <Price numerator="80" denominator="1"/>
+	</Show>
+      </Horse>
+      <Horse id="3124860" name="Goven" bred="FR" status="Runner">
+	<Cloth number="5"/>
+	<Weight units="lbs" value="168" text="12st 0lbs"/>
+	<Jockey id="2837" name="M P Walsh"/>
+	<Trainer id="1171" name="W P Mullins"/>
+	<Show timestamp="20220116T123507+0000" marketNumber="1">
+	  <Price numerator="11" denominator="4"/>
+	</Show>
+	<Show timestamp="20220116T123934+0000" marketNumber="1">
+	  <Price numerator="3" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T124444+0000" marketNumber="1">
+	  <Price numerator="10" denominator="3"/>
+	</Show>
+      </Horse>
+      <Horse id="3803507" name="Hey Johnny" bred="IRE" status="Runner">
+	<Cloth number="6"/>
+	<Weight units="lbs" value="168" text="12st 0lbs"/>
+	<Jockey id="80783" name="D E Mullins"/>
+	<Trainer id="44360" name="T Mullins"/>
+	<Show timestamp="20220116T123507+0000" marketNumber="1">
+	  <Price numerator="20" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123526+0000" marketNumber="1">
+	  <Price numerator="18" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123530+0000" marketNumber="1">
+	  <Price numerator="16" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123808+0000" marketNumber="1">
+	  <Price numerator="18" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123838+0000" marketNumber="1">
+	  <Price numerator="16" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T124047+0000" marketNumber="1">
+	  <Price numerator="18" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T124121+0000" marketNumber="1">
+	  <Price numerator="16" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T124341+0000" marketNumber="1">
+	  <Price numerator="18" denominator="1"/>
+	</Show>
+      </Horse>
+      <Horse id="3881977" name="Hiaou" bred="FR" status="Runner">
+	<Cloth number="7"/>
+	<Weight units="lbs" value="168" text="12st 0lbs"/>
+	<Jockey id="1158909" name="J W Kennedy"/>
+	<Trainer id="50463" name="G Elliott"/>
+	<Show timestamp="20220116T123507+0000" marketNumber="1">
+	  <Price numerator="6" denominator="4"/>
+	</Show>
+	<Show timestamp="20220116T123530+0000" marketNumber="1">
+	  <Price numerator="13" denominator="8"/>
+	</Show>
+	<Show timestamp="20220116T123533+0000" marketNumber="1">
+	  <Price numerator="6" denominator="4"/>
+	</Show>
+	<Show timestamp="20220116T123744+0000" marketNumber="1">
+	  <Price numerator="13" denominator="8"/>
+	</Show>
+	<Show timestamp="20220116T124433+0000" marketNumber="1">
+	  <Price numerator="6" denominator="4"/>
+	</Show>
+      </Horse>
+      <Horse id="3891664" name="Homard De Chausey" bred="FR" status="Runner">
+	<Cloth number="8"/>
+	<Weight units="lbs" value="168" text="12st 0lbs"/>
+	<Jockey id="34107" name="Adam Williams">
+	  <Allowance units="lbs" value="7"/>
+	</Jockey>
+	<Trainer id="9905" name="P Nolan"/>
+	<Show timestamp="20220116T123507+0000" marketNumber="1">
+	  <Price numerator="125" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123526+0000" marketNumber="1">
+	  <Price numerator="200" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123558+0000" marketNumber="1">
+	  <Price numerator="250" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123605+0000" marketNumber="1">
+	  <Price numerator="200" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123607+0000" marketNumber="1">
+	  <Price numerator="250" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123612+0000" marketNumber="1">
+	  <Price numerator="200" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123619+0000" marketNumber="1">
+	  <Price numerator="250" denominator="1"/>
+	</Show>
+      </Horse>
+      <Horse id="2835653" name="Keepthefaithinme" bred="IRE" status="Runner">
+	<Cloth number="9"/>
+	<Weight units="lbs" value="168" text="12st 0lbs"/>
+	<Jockey id="1177038" name="Cian Chester">
+	  <Allowance units="lbs" value="7"/>
+	</Jockey>
+	<Trainer id="50463" name="G Elliott"/>
+	<Show timestamp="20220116T123507+0000" marketNumber="1">
+	  <Price numerator="40" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123558+0000" marketNumber="1">
+	  <Price numerator="50" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123605+0000" marketNumber="1">
+	  <Price numerator="40" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123612+0000" marketNumber="1">
+	  <Price numerator="50" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123916+0000" marketNumber="1">
+	  <Price numerator="66" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T124316+0000" marketNumber="1">
+	  <Price numerator="100" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T124335+0000" marketNumber="1">
+	  <Price numerator="80" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T124408+0000" marketNumber="1">
+	  <Price numerator="66" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T124424+0000" marketNumber="1">
+	  <Price numerator="80" denominator="1"/>
+	</Show>
+      </Horse>
+      <Horse id="2840997" name="Killer Mode" bred="IRE" status="Runner">
+	<Cloth number="10"/>
+	<Weight units="lbs" value="168" text="12st 0lbs"/>
+	<Jockey id="66717" name="S W Flanagan"/>
+	<Trainer id="97365" name="N Meade"/>
+	<Show timestamp="20220116T123507+0000" marketNumber="1">
+	  <Price numerator="6" denominator="4"/>
+	</Show>
+	<Show timestamp="20220116T123526+0000" marketNumber="1">
+	  <Price numerator="13" denominator="8"/>
+	</Show>
+	<Show timestamp="20220116T123533+0000" marketNumber="1">
+	  <Price numerator="6" denominator="4"/>
+	</Show>
+      </Horse>
+      <Horse id="3805635" name="Like A G Six" bred="IRE" status="Runner">
+	<Cloth number="11"/>
+	<Weight units="lbs" value="168" text="12st 0lbs"/>
+	<Jockey id="1139244" name="R Deegan">
+	  <Allowance units="lbs" value="3"/>
+	</Jockey>
+	<Trainer id="58873" name="N McKnight"/>
+	<Show timestamp="20220116T123507+0000" marketNumber="1">
+	  <Price numerator="200" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123526+0000" marketNumber="1">
+	  <Price numerator="250" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T124135+0000" marketNumber="1">
+	  <Price numerator="200" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T124326+0000" marketNumber="1">
+	  <Price numerator="250" denominator="1"/>
+	</Show>
+      </Horse>
+      <Horse id="3812087" name="L'yser" bred="FR" status="Runner">
+	<Cloth number="12"/>
+	<Weight units="lbs" value="168" text="12st 0lbs"/>
+	<Jockey id="1162304" name="S F O'Keeffe"/>
+	<Trainer id="142998" name="B Connell"/>
+	<Show timestamp="20220116T123507+0000" marketNumber="1">
+	  <Price numerator="25" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123526+0000" marketNumber="1">
+	  <Price numerator="22" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123533+0000" marketNumber="1">
+	  <Price numerator="20" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123538+0000" marketNumber="1">
+	  <Price numerator="22" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123542+0000" marketNumber="1">
+	  <Price numerator="20" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123550+0000" marketNumber="1">
+	  <Price numerator="22" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123558+0000" marketNumber="1">
+	  <Price numerator="18" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123605+0000" marketNumber="1">
+	  <Price numerator="22" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123612+0000" marketNumber="1">
+	  <Price numerator="18" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123619+0000" marketNumber="1">
+	  <Price numerator="22" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123808+0000" marketNumber="1">
+	  <Price numerator="20" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T124424+0000" marketNumber="1">
+	  <Price numerator="22" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T124433+0000" marketNumber="1">
+	  <Price numerator="20" denominator="1"/>
+	</Show>
+      </Horse>
+      <Horse id="2493622" name="Our Patron Saint" bred="IRE" status="NonRunner">
+	<Cloth number="13"/>
+	<Weight units="lbs" value="168" text="12st 0lbs"/>
+	<Jockey id="1154551" name="E Walsh">
+	  <Allowance units="lbs" value="5"/>
+	</Jockey>
+	<Trainer id="58346" name="Mrs S Dawson"/>
+      </Horse>
+      <Horse id="3362571" name="West Is Awake" bred="IRE" status="Runner">
+	<Cloth number="14"/>
+	<Weight units="lbs" value="168" text="12st 0lbs"/>
+	<Jockey id="36773" name="C D Timmons">
+	  <Allowance units="lbs" value="3"/>
+	</Jockey>
+	<Trainer id="40597" name="E Cawley"/>
+	<Show timestamp="20220116T123507+0000" marketNumber="1">
+	  <Price numerator="22" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123526+0000" marketNumber="1">
+	  <Price numerator="20" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123533+0000" marketNumber="1">
+	  <Price numerator="16" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123538+0000" marketNumber="1">
+	  <Price numerator="20" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123542+0000" marketNumber="1">
+	  <Price numerator="16" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123550+0000" marketNumber="1">
+	  <Price numerator="20" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123558+0000" marketNumber="1">
+	  <Price numerator="16" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123605+0000" marketNumber="1">
+	  <Price numerator="20" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123607+0000" marketNumber="1">
+	  <Price numerator="16" denominator="1"/>
+	</Show>
+      </Horse>
+      <Horse id="3897489" name="Daly's Quest" bred="IRE" status="Runner">
+	<Cloth number="15"/>
+	<Weight units="lbs" value="161" text="11st 7lbs"/>
+	<Jockey id="1160280" name="E O'Connell">
+	  <Allowance units="lbs" value="5"/>
+	</Jockey>
+	<Trainer id="1684" name="E O'Connell"/>
+	<Show timestamp="20220116T123507+0000" marketNumber="1">
+	  <Price numerator="80" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123712+0000" marketNumber="1">
+	  <Price numerator="100" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123916+0000" marketNumber="1">
+	  <Price numerator="125" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T124121+0000" marketNumber="1">
+	  <Price numerator="150" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T124341+0000" marketNumber="1">
+	  <Price numerator="200" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T124346+0000" marketNumber="1">
+	  <Price numerator="150" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T124444+0000" marketNumber="1">
+	  <Price numerator="200" denominator="1"/>
+	</Show>
+      </Horse>
+      <Horse id="3830731" name="Doyen Rose" bred="IRE" status="Runner">
+	<Cloth number="16"/>
+	<Weight units="lbs" value="161" text="11st 7lbs"/>
+	<Jockey id="1171046" name="J C Gainford">
+	  <Allowance units="lbs" value="3"/>
+	</Jockey>
+	<Trainer id="12773" name="D M Christie"/>
+	<Show timestamp="20220116T123507+0000" marketNumber="1">
+	  <Price numerator="33" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123526+0000" marketNumber="1">
+	  <Price numerator="40" denominator="1"/>
+	</Show>
+      </Horse>
+      <Horse id="3844674" name="Fairy Tree" bred="IRE" status="Runner">
+	<Cloth number="17"/>
+	<Weight units="lbs" value="161" text="11st 7lbs"/>
+	<Jockey id="1144811" name="L A McKenna">
+	  <Allowance units="lbs" value="7"/>
+	</Jockey>
+	<Trainer id="115101" name="M J Smith"/>
+	<Show timestamp="20220116T123507+0000" marketNumber="1">
+	  <Price numerator="40" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123615+0000" marketNumber="1">
+	  <Price numerator="50" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T124059+0000" marketNumber="1">
+	  <Price numerator="40" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T124157+0000" marketNumber="1">
+	  <Price numerator="50" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T124232+0000" marketNumber="1">
+	  <Price numerator="40" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T124335+0000" marketNumber="1">
+	  <Price numerator="50" denominator="1"/>
+	</Show>
+      </Horse>
+      <Horse id="3622283" name="Getaway'n'dance" bred="IRE" status="Runner">
+	<Cloth number="18"/>
+	<Weight units="lbs" value="161" text="11st 7lbs"/>
+	<Jockey id="1166311" name="Mr N Gault">
+	  <Allowance units="lbs" value="7"/>
+	</Jockey>
+	<Trainer id="122248" name="S Millar"/>
+	<Show timestamp="20220116T123507+0000" marketNumber="1">
+	  <Price numerator="200" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123558+0000" marketNumber="1">
+	  <Price numerator="250" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T124408+0000" marketNumber="1">
+	  <Price numerator="300" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T124420+0000" marketNumber="1">
+	  <Price numerator="250" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T124433+0000" marketNumber="1">
+	  <Price numerator="300" denominator="1"/>
+	</Show>
+      </Horse>
+      <Horse id="3636469" name="Gladys Emmanuel" bred="IRE" status="Runner">
+	<Cloth number="19"/>
+	<Weight units="lbs" value="161" text="11st 7lbs"/>
+	<Jockey id="31898" name="D F O'Regan"/>
+	<Trainer id="59778" name="D Hickey"/>
+	<Show timestamp="20220116T123507+0000" marketNumber="1">
+	  <Price numerator="150" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123526+0000" marketNumber="1">
+	  <Price numerator="200" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123702+0000" marketNumber="1">
+	  <Price numerator="250" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123712+0000" marketNumber="1">
+	  <Price numerator="200" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T123744+0000" marketNumber="1">
+	  <Price numerator="250" denominator="1"/>
+	</Show>
+      </Horse>
+      <Horse id="3796038" name="Littel Flour" bred="IRE" status="NonRunner">
+	<Cloth number="20"/>
+	<Weight units="lbs" value="161" text="11st 7lbs"/>
+	<Jockey id="1180192" name="D L Queally"/>
+	<Trainer id="6433" name="D Queally"/>
+      </Horse>
+      <Horse id="3117057" name="Sadie Yeats" bred="IRE" status="Runner">
+	<Cloth number="21"/>
+	<Weight units="lbs" value="161" text="11st 7lbs"/>
+	<Jockey id="1982" name="S Fitzgerald">
+	  <Allowance units="lbs" value="5"/>
+	</Jockey>
+	<Trainer id="45936" name="P M Pierce"/>
+	<Show timestamp="20220116T123507+0000" marketNumber="1">
+	  <Price numerator="200" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T124316+0000" marketNumber="1">
+	  <Price numerator="250" denominator="1"/>
+	</Show>
+	<Show timestamp="20220116T124326+0000" marketNumber="1">
+	  <Price numerator="200" denominator="1"/>
+	</Show>
+      </Horse>
+    </Race>
+  </Meeting>
+</HorseRacing>

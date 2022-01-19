@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HorseRacingCard xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Meeting id="135109" country="Ireland" course="Punchestown" date="2022-01-16">
+
+    <Race id="1091366" date="2022-01-16" time="12:45:00" raceType="Hurdle" trackType="Turf" handicap="No" class="0" maxRunners="21">
+      <Title>15% Off Festival Tickets Maiden Hurdle (Div 1)</Title>
+      <Horse id="3481885" name="Carrigeen Castle" bred="IRE">
+        <Cloth number="1" />
+        <ForecastPrice bookmakers="7">
+          <Price numerator="66" denominator="1" decimal="67" />
+        </ForecastPrice>
+      </Horse>
+      <Horse id="2314315" name="Castletownshend" bred="IRE">
+        <Cloth number="2" />
+        <ForecastPrice bookmakers="7">
+          <Price numerator="50" denominator="1" decimal="51" />
+        </ForecastPrice>
+      </Horse>
+      <Horse id="3830656" name="Dont Doubt Me" bred="IRE">
+        <Cloth number="3" />
+        <ForecastPrice bookmakers="7">
+          <Price numerator="200" denominator="1" decimal="201" />
+        </ForecastPrice>
+      </Horse>
+      <Horse id="3818993" name="Garcon Doux" bred="IRE">
+        <Cloth number="4" />
+        <ForecastPrice bookmakers="7">
+          <Price numerator="80" denominator="1" decimal="81" />
+        </ForecastPrice>
+      </Horse>
+      <Horse id="3124860" name="Goven" bred="FR">
+        <Cloth number="5" />
+        <ForecastPrice bookmakers="7">
+          <Price numerator="13" denominator="8" decimal="2.625" />
+        </ForecastPrice>
+      </Horse>
+      <Horse id="3803507" name="Hey Johnny" bred="IRE">
+        <Cloth number="6" />
+        <ForecastPrice bookmakers="7">
+          <Price numerator="25" denominator="1" decimal="26" />
+        </ForecastPrice>
+      </Horse>
+      <Horse id="3881977" name="Hiaou" bred="FR">
+        <Cloth number="7" />
+        <ForecastPrice bookmakers="7">
+          <Price numerator="15" denominator="8" decimal="2.875" />
+        </ForecastPrice>
+      </Horse>
+      <Horse id="3891664" name="Homard De Chausey" bred="FR">
+        <Cloth number="8" />
+        <ForecastPrice bookmakers="7">
+          <Price numerator="100" denominator="1" decimal="101" />
+        </ForecastPrice>
+      </Horse>
+      <Horse id="2835653" name="Keepthefaithinme" bred="IRE">
+        <Cloth number="9" />
+        <ForecastPrice bookmakers="7">
+          <Price numerator="40" denominator="1" decimal="41" />
+        </ForecastPrice>
+      </Horse>
+      <Horse id="2840997" name="Killer Mode" bred="IRE">
+        <Cloth number="10" />
+        <ForecastPrice bookmakers="7">
+          <Price numerator="7" denominator="4" decimal="2.75" />
+        </ForecastPrice>
+      </Horse>
+      <Horse id="3805635" name="Like A G Six" bred="IRE">
+        <Cloth number="11" />
+        <ForecastPrice bookmakers="7">
+          <Price numerator="200" denominator="1" decimal="201" />
+        </ForecastPrice>
+      </Horse>
+      <Horse id="3812087" name="L'yser" bred="FR">
+        <Cloth number="12" />
+        <ForecastPrice bookmakers="7">
+          <Price numerator="33" denominator="1" decimal="34" />
+        </ForecastPrice>
+      </Horse>
+      <Horse id="2493622" name="Our Patron Saint" bred="IRE">
+        <Cloth number="13" />
+        <ForecastPrice bookmakers="7">
+          <Price numerator="200" denominator="1" decimal="201" />
+        </ForecastPrice>
+      </Horse>
+      <Horse id="3362571" name="West Is Awake" bred="IRE">
+        <Cloth number="14" />
+        <ForecastPrice bookmakers="7">
+          <Price numerator="25" denominator="1" decimal="26" />
+        </ForecastPrice>
+      </Horse>
+      <Horse id="3897489" name="Daly's Quest" bred="IRE">
+        <Cloth number="15" />
+        <ForecastPrice bookmakers="7">
+          <Price numerator="80" denominator="1" decimal="81" />
+        </ForecastPrice>
+      </Horse>
+      <Horse id="3830731" name="Doyen Rose" bred="IRE">
+        <Cloth number="16" />
+        <ForecastPrice bookmakers="7">
+          <Price numerator="25" denominator="1" decimal="26" />
+        </ForecastPrice>
+      </Horse>
+      <Horse id="3844674" name="Fairy Tree" bred="IRE">
+        <Cloth number="17" />
+        <ForecastPrice bookmakers="7">
+          <Price numerator="25" denominator="1" decimal="26" />
+        </ForecastPrice>
+      </Horse>
+      <Horse id="3622283" name="Getaway'n'dance" bred="IRE">
+        <Cloth number="18" />
+        <ForecastPrice bookmakers="7">
+          <Price numerator="200" denominator="1" decimal="201" />
+        </ForecastPrice>
+      </Horse>
+      <Horse id="3636469" name="Gladys Emmanuel" bred="IRE">
+        <Cloth number="19" />
+        <ForecastPrice bookmakers="7">
+          <Price numerator="125" denominator="1" decimal="126" />
+        </ForecastPrice>
+      </Horse>
+      <Horse id="3796038" name="Littel Flour" bred="IRE">
+        <Cloth number="20" />
+        <ForecastPrice bookmakers="7">
+          <Price numerator="25" denominator="1" decimal="26" />
+        </ForecastPrice>
+      </Horse>
+      <Horse id="3117057" name="Sadie Yeats" bred="IRE">
+        <Cloth number="21" />
+        <ForecastPrice bookmakers="7">
+          <Price numerator="200" denominator="1" decimal="201" />
+        </ForecastPrice>
+      </Horse>
+    </Race>
+
+    <NonRunners />
+
+  </Meeting>
+</HorseRacingCard>
