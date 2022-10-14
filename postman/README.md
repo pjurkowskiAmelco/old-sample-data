@@ -10,6 +10,12 @@ By default variables are set for LSPORTS feed provider. To use Betradar please d
 ```
 ext_syst_code, ext_football_syst_ref, ext_syst_username
 ```
+Systems Lsports/Betradar for local DB are added by using  Systems -> Lsports or Systems -> betradar_uf 
+```
+./run modules
+```
+
+
 And use ones that were previously disabled.
 
 To run full test You need to have:
